@@ -2,7 +2,6 @@
 <img alt="lacey micallef's gif" src="./images/laceymicallef.gif" width="100%" style="height:20vh; object-fit: cover;" />
 
 <br />
-<br />
 
 ## Hi there 👋
 
