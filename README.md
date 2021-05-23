@@ -45,7 +45,7 @@
 
 <div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ImraanMeyer&hide=prs,issues&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ImraanMeyer&hide=issues&count_private=true&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
